@@ -1,1 +1,1 @@
-# THANK.github.io
+# thank.github.io
